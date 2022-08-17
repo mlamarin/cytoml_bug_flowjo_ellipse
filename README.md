@@ -10,6 +10,7 @@ The ellipses are not placed correctly (coordinates are closed to zero) which res
 # How to reproduce
 
 * clone the project
+* cd cytoml_bug_flowjo_ellipse/
 * make build run
 * examine/run code in: **flowjo_ellipse_bug.R**
 
