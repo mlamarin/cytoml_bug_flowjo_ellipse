@@ -20,10 +20,12 @@ Two ellipses were defined in the **cytotrol.wsp** flowJo workspace using flowJo 
 These ellipses should be located here
 * fromflowJo
 
-![image](plot_flowjo.png')
+![image](plot_flowjo.png)
 
 * R3.61
 
-![image](plot_361.png')
+![image](plot_361.png)
 
 but are misplaced near the origin (0,0) using the last bioc:devel CytoML version.
+
+![image](plot_4.2.1.svg)
