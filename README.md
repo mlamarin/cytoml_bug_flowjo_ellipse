@@ -26,6 +26,6 @@ These ellipses should be located here
 
 ![image](plot_361.png)
 
-but are misplaced near the origin (0,0) using the last bioc:devel CytoML version.
+* but are misplaced near the origin (0,0) and mostly invisible using the last bioc:devel CytoML version.
 
 ![image](plot_4.2.1.svg)
