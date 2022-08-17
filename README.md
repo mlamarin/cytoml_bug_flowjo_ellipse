@@ -5,7 +5,7 @@ Reproducible example of CytoML issue with flowJo ellipses
 Ellipses coordinates obtained after parsing the flowJo workspace file are not correct in the gating set. 
 
 
-The ellipses are not placed correctly (corrdinates closed to zero) which results in no OpenCyto counts. The code works in R_3.6.1 (a bit old) but no more in 4.2.1 and CytoML (2022-04-26 [1] Bioconductor)
+The ellipses are not placed correctly (coordinates are closed to zero) which results in no OpenCyto counts. The code works in R_3.6.1 (a bit old) but no more in 4.2.1 and CytoML **2.9.0** (2022-04-26 [1] Bioconductor)
 
 # How to reproduce
 
